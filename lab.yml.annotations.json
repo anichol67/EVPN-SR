@@ -1,0 +1,199 @@
+{
+  "freeTextAnnotations": [],
+  "groupStyleAnnotations": [],
+  "cloudNodeAnnotations": [],
+  "nodeAnnotations": [
+    {
+      "id": "L-11",
+      "icon": "router",
+      "position": {
+        "x": -133,
+        "y": 105
+      },
+      "geoCoordinates": {
+        "lat": 48.684826888402256,
+        "lng": 9.107895390625677
+      }
+    },
+    {
+      "id": "L-12",
+      "icon": "router",
+      "position": {
+        "x": -133,
+        "y": 133
+      },
+      "geoCoordinates": {
+        "lat": 48.97482688840226,
+        "lng": 9.387895390625676
+      }
+    },
+    {
+      "id": "S-11",
+      "icon": "router",
+      "position": {
+        "x": -63,
+        "y": 119
+      },
+      "geoCoordinates": {
+        "lat": 49.174826888402265,
+        "lng": 9.587895390625677
+      }
+    },
+    {
+      "id": "GW-11",
+      "icon": "router",
+      "position": {
+        "x": -21,
+        "y": 49
+      },
+      "geoCoordinates": {
+        "lat": 48.88482688840226,
+        "lng": 9.307895390625678
+      }
+    },
+    {
+      "id": "GW-12",
+      "icon": "router",
+      "position": {
+        "x": -21,
+        "y": 175
+      },
+      "geoCoordinates": {
+        "lat": 49.084826888402254,
+        "lng": 9.507895390625677
+      }
+    },
+    {
+      "id": "P-01",
+      "icon": "router",
+      "position": {
+        "x": 77,
+        "y": 49
+      },
+      "geoCoordinates": {
+        "lat": 49.28482688840226,
+        "lng": 9.707895390625676
+      }
+    },
+    {
+      "id": "P-02",
+      "icon": "router",
+      "position": {
+        "x": 77,
+        "y": 175
+      },
+      "geoCoordinates": {
+        "lat": 49.48482688840225,
+        "lng": 9.007895390625677
+      }
+    },
+    {
+      "id": "P-03",
+      "icon": "router",
+      "position": {
+        "x": 189,
+        "y": 175
+      },
+      "geoCoordinates": {
+        "lat": 49.06054117411655,
+        "lng": 9.502181104911392
+      }
+    },
+    {
+      "id": "P-04",
+      "icon": "router",
+      "position": {
+        "x": 189,
+        "y": 49
+      },
+      "geoCoordinates": {
+        "lat": 49.260541174116554,
+        "lng": 9.702181104911393
+      }
+    },
+    {
+      "id": "GW-21",
+      "icon": "router",
+      "position": {
+        "x": 301,
+        "y": 49
+      },
+      "geoCoordinates": {
+        "lat": 48.78482688840226,
+        "lng": 9.207895390625676
+      }
+    },
+    {
+      "id": "GW-22",
+      "icon": "router",
+      "position": {
+        "x": 301,
+        "y": 175
+      },
+      "geoCoordinates": {
+        "lat": 48.98482688840225,
+        "lng": 9.407895390625677
+      }
+    },
+    {
+      "id": "S-21",
+      "icon": "router",
+      "position": {
+        "x": 357,
+        "y": 105
+      },
+      "geoCoordinates": {
+        "lat": 49.37482688840226,
+        "lng": 9.787895390625676
+      }
+    },
+    {
+      "id": "L-21",
+      "icon": "router",
+      "position": {
+        "x": 413,
+        "y": 119
+      },
+      "geoCoordinates": {
+        "lat": 49.184826888402256,
+        "lng": 9.607895390625677
+      }
+    },
+    {
+      "id": "L-22",
+      "icon": "router",
+      "position": {
+        "x": 413,
+        "y": 91
+      },
+      "geoCoordinates": {
+        "lat": 49.574826888402264,
+        "lng": 9.987895390625676
+      }
+    },
+    {
+      "id": "Host1",
+      "icon": "router",
+      "position": {
+        "x": -161,
+        "y": 119
+      },
+      "geoCoordinates": {
+        "lat": 48.684826888402256,
+        "lng": 9.007895390625677
+      }
+    },
+    {
+      "id": "Host2",
+      "icon": "router",
+      "position": {
+        "x": 455,
+        "y": 105
+      },
+      "geoCoordinates": {
+        "lat": 48.684826888402256,
+        "lng": 9.007895390625677
+      }
+    }
+  ]
+}
