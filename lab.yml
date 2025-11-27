@@ -35,9 +35,9 @@ topology:
         - toggles/toggle_override:/mnt/flash/toggle_override
       startup-config: init-configs/PE01.cfg
       ports:
-        - '22004:22'
-        - '8004:80'
-        - '44304:443'
+        - '22001:22'
+        - '8001:80'
+        - '44301:443'
     PE-02:
       kind: ceos
       mgmt-ipv4: 172.100.100.105
@@ -46,9 +46,9 @@ topology:
         - toggles/toggle_override:/mnt/flash/toggle_override
       startup-config: init-configs/PE02.cfg
       ports:
-        - '22005:22'
-        - '8005:80'
-        - '44305:443'
+        - '22002:22'
+        - '8002:80'
+        - '44302:443'
     P-03:
       kind: ceos
       mgmt-ipv4: 172.100.100.106
@@ -57,9 +57,9 @@ topology:
         - toggles/toggle_override:/mnt/flash/toggle_override
       startup-config: init-configs/P03.cfg
       ports:
-        - '22006:22'
-        - '8006:80'
-        - '44306:443'
+        - '22003:22'
+        - '8003:80'
+        - '44303:443'
     P-04:
       kind: ceos
       mgmt-ipv4: 172.100.100.107
@@ -68,9 +68,9 @@ topology:
         - toggles/toggle_override:/mnt/flash/toggle_override
       startup-config: init-configs/P04.cfg
       ports:
-        - '22007:22'
-        - '8007:80'
-        - '44307:443'
+        - '22047:22'
+        - '8004:80'
+        - '44304:443'
     P-05:
       kind: ceos
       mgmt-ipv4: 172.100.100.108
@@ -79,9 +79,9 @@ topology:
         - toggles/toggle_override:/mnt/flash/toggle_override
       startup-config: init-configs/P05.cfg
       ports:
-        - '22008:22'
-        - '8008:80'
-        - '44308:443'
+        - '22005:22'
+        - '8005:80'
+        - '44305:443'
     P-06:
       kind: ceos
       mgmt-ipv4: 172.100.100.109
@@ -90,9 +90,9 @@ topology:
         - toggles/toggle_override:/mnt/flash/toggle_override
       startup-config: init-configs/P06.cfg
       ports:
-        - '22009:22'
-        - '8009:80'
-        - '44309:443'    
+        - '22006:22'
+        - '8006:80'
+        - '44306:443'    
     PE-07:
       kind: ceos
       mgmt-ipv4: 172.100.100.110
@@ -101,9 +101,9 @@ topology:
         - toggles/toggle_override:/mnt/flash/toggle_override
       startup-config: init-configs/PE07.cfg
       ports:
-        - '22010:22'
-        - '8010:80'
-        - '44310:443'
+        - '22007:22'
+        - '8007:80'
+        - '44007:443'
     PE-08:
       kind: ceos
       mgmt-ipv4: 172.100.100.111
@@ -112,9 +112,9 @@ topology:
         - toggles/toggle_override:/mnt/flash/toggle_override
       startup-config: init-configs/PE08.cfg
       ports:
-        - '22011:22'
-        - '8011:80'
-        - '44311:443'
+        - '22008:22'
+        - '8008:80'
+        - '44308:443'
  
     CE-1:
       kind: ceos
