@@ -118,7 +118,7 @@ topology:
  
     CE-1:
       kind: ceos
-      mgmt-ipv4: 172.100.100.115
+      mgmt-ipv4: 172.100.100.112
       binds:
         - sn/CE01.txt:/mnt/flash/ceos-config:ro
         - toggles/toggle_override:/mnt/flash/toggle_override
@@ -129,7 +129,7 @@ topology:
         - '44315:443'
     CE-2:
       kind: ceos
-      mgmt-ipv4: 172.100.100.116
+      mgmt-ipv4: 172.100.100.113
       binds:
         - sn/CE02.txt:/mnt/flash/ceos-config:ro
         - toggles/toggle_override:/mnt/flash/toggle_override
