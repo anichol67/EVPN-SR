@@ -187,7 +187,7 @@ topology:
     - endpoints: [ "CE-2:et2",  "PE-08:et10" ]
     - endpoints: [ "PE-01:et4", "P-03:et1" ]
     - endpoints: [ "PE-01:et5", "P-04:et1" ]
-    - endpoints: [ "PE-01:et6", "P-02:et6" ]
+    - endpoints: [ "PE-01:et6", "PE-02:et6" ]
     - endpoints: [ "PE-02:et4", "P-03:et2" ]
     - endpoints: [ "PE-02:et5", "P-04:et2" ]
     - endpoints: [ "PE-03:et4", "P-05:et1" ]
