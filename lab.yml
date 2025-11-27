@@ -159,7 +159,7 @@ topology:
         - '22202:22'    
     Host3:
       kind: linux
-      mgmt-ipv4: 172.100.100.202
+      mgmt-ipv4: 172.100.100.203
       exec:
        # Command to add an IP address to the host interface after creation
        - ip address add 10.10.20.101/24 dev et1
@@ -168,7 +168,7 @@ topology:
         - '22203:22'
     Host4:
       kind: linux
-      mgmt-ipv4: 172.100.100.202
+      mgmt-ipv4: 172.100.100.204
       exec:
        # Command to add an IP address to the host interface after creation
        - ip address add 10.10.20.102/24 dev et1
