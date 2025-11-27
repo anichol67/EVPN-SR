@@ -194,12 +194,13 @@ topology:
     - endpoints: [ "PE-03:et5", "P-06:et1" ]
     - endpoints: [ "PE-03:et6", "P-04:et6" ]
     - endpoints: [ "PE-04:et4", "P-05:et2" ]
-    - endpoints: [ "PE-04:et5", "P-06:et2" ]    
-    - endpoints: [ "PE-05:et4", "P-07:et1" ]
-    - endpoints: [ "PE-05:et5", "P-08:et1" ]
-    - endpoints: [ "PE-05:et6", "P-06:et6" ]
-    - endpoints: [ "PE-06:et4", "P-07:et2" ]
-    - endpoints: [ "PE-06:et5", "P-08:et2" ]
+    - endpoints: [ "PE-04:et5", "P-06:et2" ]
+    - endpoints: [ "P-05:et4", "PE-07:et1" ]
+    - endpoints: [ "P-05:et5", "PE-08:et1" ]
+    - endpoints: [ "P-05:et6", "P-06:et6" ]
+    - endpoints: [ "P-06:et4", "PE-07:et2" ]
+    - endpoints: [ "P-06:et5", "PE-08:et2" ]
+    - endpoints: [ "PE-07:et6", "PE-08:et6" ]
     
     
     
